@@ -5,7 +5,7 @@ To set up and run the application locally, follow these steps:
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/brewapps_assessment.git
+git clone https://github.com/akhilr007/brewapps_assessment.git
 cd brewapps_assessment
 
 ```
