@@ -39,6 +39,8 @@ This is a RESTful API for managing books. It provides basic CRUD (Create, Read, 
 
 ### 1. Create a New Book
 
+- For testing it on `render` or `live server deployment` replace `http://localhost:8000` with `https://brewapps-assessment.onrender.com` in every `endpoints`
+
 - **Endpoint:** `http://localhost:8000/api/v1/books`
 - **HTTP Method:** POST
 - **Request Body:**
