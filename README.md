@@ -18,7 +18,7 @@ Install the required Node.js dependencies:
 ### 3. Configure the MongoDB connection
 
 Open the `src/config/database.js` file and update the MongoDB connection URL to point to your MongoDB database. You can use a local MongoDB or a cloud-based solution like MongoDB Atlas.
-Or you can use the existing MongoDB configuration.
+Or you can use the existing MongoDB configuration used (MongoDB Atlas).
 
 ### 4. Start the server
 
